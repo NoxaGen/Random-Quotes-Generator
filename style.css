@@ -11,6 +11,7 @@ div {
     transform: translate(-50%, -50%);
     max-width: 400px;
     opacity: 0;
+    text-align: center;
 
 }
 
@@ -31,5 +32,6 @@ div p:nth-child(3) {
 
 div:nth-child(1) {
     background-color: pink;
+    opacity: 1;
 
 }
