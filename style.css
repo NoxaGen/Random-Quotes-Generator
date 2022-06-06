@@ -35,3 +35,7 @@ div:nth-child(1) {
     opacity: 1;
 
 }
+
+.active {
+    opacity: 1;
+}
